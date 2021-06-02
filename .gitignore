@@ -1,0 +1,6 @@
+*-cache.lib
+fp-info-cache
+*.ses
+*.dsn
+*-bak
+*~
