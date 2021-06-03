@@ -1,9 +1,9 @@
 # HappyAAC-type-A
 ## A breakout board to make AAC device makers Happy
-![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/HappyAAC-Type-A.PartsAndFunctions.png "HappyAAC-type-A v2c")
+![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/Pictures/Board/HappyAAC-Type-A.PartsAndFunctions.png "HappyAAC-type-A v2c")
 
 ## HappyAAC type A
-#### 尺寸 8cm x 5cm圓孔直徑 2.86mm
+#### 尺寸 8cm x 5cm 角落圓孔直徑 2.86mm
 #### 它是一種轉接板(Breakout Board),預先設計好可能需要的線路,印刷在電路板上,使用者只要把必要的元件焊上電路版,就可以立即享有線路上預先接好的各種功能,免去手工連接大量線路的困難。
 
 1. 使用 Sparkfun Pro Micro控制板, 支援鍵盤或滑鼠模擬功能
