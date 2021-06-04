@@ -1,5 +1,5 @@
 # HappyAAC-type-A
-## A breakout board to make AAC device makers Happy
+## A breakout board to make AAC device makers Happy :)
 ![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/Pictures/Board/HappyAAC-Type-A.PartsAndFunctions.png "HappyAAC-type-A v2c")
 
 ## HappyAAC type A
