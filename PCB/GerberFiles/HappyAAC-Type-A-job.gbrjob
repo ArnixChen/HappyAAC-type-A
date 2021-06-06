@@ -7,7 +7,7 @@
       "Application": "Pcbnew",
       "Version":     "5.1.10"
     },
-    "CreationDate":  "2021-06-02T17:16:58+08:00"
+    "CreationDate":  "2021-06-07T03:59:32+08:00"
   },
   "GeneralSpecs":
   {
@@ -15,7 +15,7 @@
     {
       "Name": "HappyAAC-Type-A",
       "GUID": "48617070-7941-4414-932d-547970652d41",
-      "Revision": "2c"
+      "Revision": "2d"
     },
     "Size":
     {
