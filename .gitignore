@@ -1,3 +1,4 @@
+*.net
 .~*
 *-cache.lib
 fp-info-cache
