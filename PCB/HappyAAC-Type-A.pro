@@ -1,4 +1,4 @@
-update=Tue 20 Apr 2021 03:58:58 PM CST
+update=Mon 07 Jun 2021 03:57:36 AM CST
 version=1
 last_client=kicad
 [general]
@@ -15,7 +15,7 @@ LibDir=
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=KeypadControllerG2bProMicro.net
+LastNetListRead=HappyAAC-Type-A.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
