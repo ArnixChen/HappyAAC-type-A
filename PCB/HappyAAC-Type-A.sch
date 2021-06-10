@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "HappyAAC type A"
-Date "2021-06-07"
+Date "2021-06-11"
 Rev "2d"
 Comp ""
 Comment1 ""
@@ -896,7 +896,7 @@ Wire Wire Line
 Wire Wire Line
 	9860 4385 10590 4385
 Text Notes 7200 6315 0    50   ~ 0
-ATmega32U4 digital Pins \nUsable For Interrupts are 0, 1, 2, 3, 7\nso\nROW1 at D0\nROW2 at D1\nIR_RECV at D7\n\nFor SoftwareSerial Not all pins on the Leonardo and Micro support change interrupts, \nso only the following can be used for RX: 8, 9, 10, 11, 14 (MISO), 15 (SCK), 16 (MOSI). 
+Digital pins available For Interrupts on ATmega32U4 are \n0, 1, 2, 3, 7 for the sake of supporting wake-up function we choose\nROW1 at D0\nROW2 at D1\nIR_RECV at D7\n\nFor SoftwareSerial Not all pins on the Leonardo and Micro support change interrupts, \nso only the following can be used for RX: 8, 9, 10, 11, 14 (MISO), 15 (SCK), 16 (MOSI). 
 Text Label 10160 5285 2    50   ~ 0
 COL8
 Text Label 10435 4885 0    50   ~ 0
