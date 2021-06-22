@@ -1,6 +1,7 @@
 # HappyAAC-type-A
 ## An open-source main-board to make AAC device makers Happy ;)
-![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/Pictures/Board/HappyAAC-Type-A.PartsAndFunctions.png "HappyAAC-type-A v2c")
+![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/Pictures/Board/HappyAAC-Type-A.3D-Front_Side.png)
+![alt text](https://github.com/ArnixChen/HappyAAC-type-A/blob/main/Pictures/Board/HappyAAC-Type-A.PartsAndFunctions.png)
 
 ## HappyAAC type A
 #### 尺寸 8cm x 5cm 角落圓孔直徑 2.86mm
