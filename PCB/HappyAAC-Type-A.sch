@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "HappyAAC type A"
-Date "2021-06-11"
-Rev "2d"
+Date "2021-08-02"
+Rev "0.2e"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -30,7 +30,7 @@ U 1 1 5E8197DC
 P 8450 1550
 F 0 "J8" H 8368 1225 50  0000 C CNN
 F 1 "PWR_SW" H 8368 1316 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 8450 1550 50  0001 C CNN
+F 2 "footprintLib:PEC-2503-2H.JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 8450 1550 50  0001 C CNN
 F 3 "~" H 8450 1550 50  0001 C CNN
 	1    8450 1550
 	-1   0    0    1   
@@ -95,7 +95,7 @@ U 1 1 5E8237AB
 P 8650 2650
 F 0 "J9" H 8800 2700 50  0000 C CNN
 F 1 "Batt" H 8650 2800 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 8650 2650 50  0001 C CNN
+F 2 "footprintLib:PEC-2503-2H.JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 8650 2650 50  0001 C CNN
 F 3 "~" H 8650 2650 50  0001 C CNN
 	1    8650 2650
 	-1   0    0    -1  
@@ -227,7 +227,7 @@ U 1 1 5E8831C5
 P 1750 6850
 F 0 "J10" H 1750 7000 50  0000 C CNN
 F 1 "SPEAKER" H 1750 7100 50  0000 C CNN
-F 2 "Connector_JST:JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 1750 6850 50  0001 C CNN
+F 2 "footprintLib:PEC-2503-2H.JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal" H 1750 6850 50  0001 C CNN
 F 3 "~" H 1750 6850 50  0001 C CNN
 	1    1750 6850
 	-1   0    0    1   
@@ -250,7 +250,7 @@ U 1 1 5E89C5B8
 P 6165 1605
 F 0 "J11" H 6083 2022 50  0000 C CNN
 F 1 "ICSP" H 6083 1931 50  0000 C CNN
-F 2 "footprintLib:PinHeader_1x06_P2.54mm_Horizontal" H 6165 1605 50  0001 C CNN
+F 2 "footprintLib:ICSP_PinHeader_1x06_P2.54mm_Horizontal" H 6165 1605 50  0001 C CNN
 F 3 "~" H 6165 1605 50  0001 C CNN
 	1    6165 1605
 	-1   0    0    -1  
